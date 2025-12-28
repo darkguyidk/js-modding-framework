@@ -1,0 +1,5 @@
+<app>
+  <webGL>yes</webGL>
+  <diepIO>yes</diepIO>
+  <UnityWebGL>yes</UnityWebGL>
+</app>
