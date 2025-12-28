@@ -5,5 +5,7 @@
 // @run-at      document-start
 // @license     MIT
 // @version     1
-// @namespace https://github.com/darkguyidk/
+// @namespace   https://github.com/darkguyidk/
+// @grant       none
+// @icon
 // ==/UserScript==
