@@ -7,5 +7,5 @@
 // @version     1
 // @namespace   https://github.com/darkguyidk/
 // @grant       none
-// @icon
+// @icon        https://dummyimage.com/600x600/000/fff.png&text=JSMF
 // ==/UserScript==
